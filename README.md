@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a German Developer. Here you can find a few none of my Random stuff that came into my mind.
+I'm a German Developer. Here you can find none of my Random stuff that came into my mind.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/704249216377290772) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonas_schael_sick) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail@jonasschroeder.de) 
